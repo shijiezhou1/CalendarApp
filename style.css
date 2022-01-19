@@ -28,6 +28,11 @@ button {
 #header button {
   background-color:#92a1d1;
 }
+#header > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 #container {
   width: 770px;
 }
